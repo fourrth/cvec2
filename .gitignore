@@ -21,3 +21,7 @@
 !docs/**
 
 !.clang-format
+
+!README.md
+!LICENSE-MIT
+!LICENSE-APACHE
